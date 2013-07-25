@@ -1,0 +1,5 @@
+versão 0.1
+
+1 organizar arquivos no git
+2 fazer analise funcional desordem pascal
+3 organizar código desordem pascal
