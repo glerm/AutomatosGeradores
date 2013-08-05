@@ -9,6 +9,16 @@ mf.close()
 
 s = midi.translate.midiFileToStream(mf)
 
-s.show('text')
+#formato music21
+#s.show('text')
+
+#grid matrix
+#graph.plotStream(s)
+
+#frequencia de pitches - histograma
+graph.plotStream(s, 'PlotHistogramPitchClass')
+
+#pitches e suas duracoes
+#s.plot(format='scatterweighted', values='pitchclass')
 
 

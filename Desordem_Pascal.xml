@@ -1,0 +1,239 @@
+{0.0} <music21.stream.Part 182242284>
+    {0.0} <music21.tempo.MetronomeMark animato Quarter=120.0>
+    {0.0} <music21.meter.TimeSignature 8/8>
+    {0.0} <music21.stream.Voice 183336588>
+        {0.0} <music21.chord.Chord C4 C5>
+        {0.5} <music21.note.Note E>
+        {0.75} <music21.note.Note E>
+        {1.0} <music21.chord.Chord E-4 E-5>
+        {2.0} <music21.note.Note E->
+        {2.5} <music21.chord.Chord E-5 E-4>
+        {3.5} <music21.note.Note A>
+        {3.75} <music21.note.Note E>
+        {3.875} <music21.note.Note C>
+        {4.0} <music21.chord.Chord E-5 A4 A3>
+        {4.5} <music21.chord.Chord E-4 E-5>
+        {6.0} <music21.note.Note C>
+        {6.5} <music21.note.Note E->
+        {7.0} <music21.note.Note E->
+        {8.5} <music21.note.Note C>
+        {9.0} <music21.note.Note E->
+        {9.5} <music21.note.Note E->
+        {10.0} <music21.chord.Chord E-4 E-5>
+        {12.0} <music21.note.Note A>
+        {12.5} <music21.note.Note C>
+        {13.0} <music21.note.Note E->
+        {13.5} <music21.note.Note E->
+        {14.0} <music21.note.Note E->
+        {14.25} <music21.note.Note E->
+        {15.5} <music21.note.Note A>
+        {16.0} <music21.note.Note A>
+        {16.5} <music21.note.Note E->
+        {17.0} <music21.note.Note E->
+        {17.5} <music21.note.Note E->
+        {19.5} <music21.note.Note E->
+        {19.75} <music21.note.Note B->
+        {20.0} <music21.note.Note A>
+        {20.5} <music21.note.Note E->
+        {21.0} <music21.note.Note B->
+        {21.5} <music21.chord.Chord B-5 B-3>
+        {23.5} <music21.note.Note A>
+        {24.0} <music21.note.Note C>
+        {24.5} <music21.note.Note B->
+        {25.0} <music21.chord.Chord A4 A5>
+        {26.5} <music21.note.Note C>
+        {27.0} <music21.note.Note E->
+        {27.5} <music21.note.Note E->
+        {28.0} <music21.chord.Chord E-4 E-5>
+        {29.5} <music21.note.Note C>
+        {30.0} <music21.note.Note E->
+        {30.5} <music21.chord.Chord E-4 E-5>
+        {31.5} <music21.note.Note A>
+        {32.0} <music21.note.Note E->
+        {32.5} <music21.chord.Chord E-4 E-5>
+        {33.5} <music21.note.Note E->
+        {34.0} <music21.chord.Chord C4 C5>
+        {34.5} <music21.note.Note C>
+    {0.0} <music21.stream.Voice 183336684>
+        {0.0} <music21.note.Rest rest>
+        {1.5} <music21.note.Note F#>
+        {2.0} <music21.note.Rest rest>
+        {3.0} <music21.note.Note A>
+        {3.5} <music21.note.Rest rest>
+        {5.0} <music21.note.Note C>
+        {5.5} <music21.note.Note C>
+        {6.0} <music21.note.Rest rest>
+        {7.0} <music21.note.Note E->
+        {7.5} <music21.note.Note E->
+        {8.5} <music21.note.Rest rest>
+        {10.5} <music21.note.Note C>
+        {11.0} <music21.note.Note A>
+        {11.5} <music21.note.Note F#>
+        {12.0} <music21.note.Rest rest>
+        {13.5} <music21.note.Note E->
+        {14.75} <music21.note.Note E->
+        {15.0} <music21.note.Note E->
+        {15.5} <music21.note.Rest rest>
+        {17.5} <music21.note.Note E->
+        {18.0} <music21.note.Note E->
+        {19.0} <music21.note.Note E->
+        {19.5} <music21.note.Rest rest>
+        {21.5} <music21.note.Note B->
+        {22.0} <music21.note.Note A>
+        {22.5} <music21.note.Note A>
+        {23.0} <music21.note.Note F#>
+        {23.5} <music21.note.Rest rest>
+        {25.5} <music21.note.Note E->
+        {26.0} <music21.note.Note C>
+        {26.5} <music21.note.Rest rest>
+        {28.5} <music21.note.Note C>
+        {29.0} <music21.note.Note C>
+        {29.5} <music21.note.Rest rest>
+        {31.0} <music21.note.Note A>
+        {31.5} <music21.note.Rest rest>
+        {33.0} <music21.note.Note F#>
+        {33.5} <music21.note.Rest rest>
+    {0.0} <music21.stream.Voice 183336780>
+        {8.0} <music21.note.Note C>
+        {14.5} <music21.note.Note A>
+        {14.625} <music21.note.Note C>
+        {14.875} <music21.note.Note A>
+        {18.5} <music21.note.Note A>
+    {1.0} <music21.meter.TimeSignature 3/8>
+    {2.5} <music21.meter.TimeSignature 4/8>
+    {4.0} <music21.meter.TimeSignature 7/8>
+    {4.5} <music21.meter.TimeSignature 5/8>
+    {7.0} <music21.meter.TimeSignature 6/8>
+    {10.0} <music21.meter.TimeSignature 7/8>
+    {10.5} <music21.meter.TimeSignature 5/8>
+    {13.0} <music21.meter.TimeSignature 4/8>
+    {13.5} <music21.meter.TimeSignature 8/8>
+    {15.0} <music21.meter.TimeSignature 3/8>
+    {16.5} <music21.meter.TimeSignature 2/8>
+    {18.5} <music21.meter.TimeSignature 3/8>
+    {20.0} <music21.meter.TimeSignature 4/8>
+    {21.5} <music21.meter.TimeSignature 7/8>
+    {22.0} <music21.meter.TimeSignature 5/8>
+    {24.5} <music21.meter.TimeSignature 6/8>
+    {27.5} <music21.meter.TimeSignature 7/8>
+    {28.0} <music21.meter.TimeSignature 5/8>
+    {30.5} <music21.meter.TimeSignature 4/8>
+    {31.0} <music21.tempo.MetronomeMark Quarter=100.0>
+    {31.0} <music21.meter.TimeSignature 8/8>
+    {32.5} <music21.meter.TimeSignature 3/8>
+    {34.0} <music21.tempo.MetronomeMark larghetto Quarter=60.0>
+    {34.0} <music21.meter.TimeSignature 2/8>
+{0.0} <music21.stream.Part 181580428>
+    {0.0} <music21.key.KeySignature of 5 sharps, mode major>
+    {0.0} <music21.meter.TimeSignature 8/8>
+    {0.0} <music21.stream.Voice 184391564>
+        {0.0} <music21.chord.Chord G1 G3>
+        {2.0} <music21.note.Note A>
+        {2.5} <music21.note.Note E->
+        {3.0} <music21.note.Note A>
+        {3.5} <music21.note.Note A>
+        {4.0} <music21.chord.Chord A1 A3>
+        {6.0} <music21.note.Note E->
+        {6.5} <music21.note.Note C>
+        {7.0} <music21.note.Note A>
+        {7.5} <music21.chord.Chord A1 A3>
+        {9.0} <music21.note.Note C>
+        {9.5} <music21.note.Note A>
+        {10.0} <music21.note.Note A>
+        {10.5} <music21.chord.Chord A1 A3>
+        {12.0} <music21.note.Note C>
+        {12.5} <music21.note.Note A>
+        {13.0} <music21.chord.Chord A1 A3>
+        {14.0} <music21.note.Note E->
+        {14.5} <music21.note.Note E->
+        {15.0} <music21.chord.Chord A1 A3>
+        {16.0} <music21.note.Note A>
+        {16.5} <music21.chord.Chord G1 G3>
+        {17.0} <music21.note.Note A>
+        {17.5} <music21.chord.Chord G#1 G#3>
+        {18.0} <music21.note.Note G>
+        {18.5} <music21.chord.Chord A1 A3>
+        {19.5} <music21.note.Note E->
+        {20.0} <music21.chord.Chord A1 A3>
+        {21.0} <music21.note.Note B->
+        {21.5} <music21.note.Note B->
+        {22.0} <music21.chord.Chord A1 A3>
+        {23.5} <music21.note.Note C>
+        {24.0} <music21.note.Note E->
+        {24.5} <music21.note.Note B->
+        {25.0} <music21.note.Note C>
+        {25.5} <music21.note.Note C>
+        {26.0} <music21.note.Note C>
+        {26.5} <music21.note.Note A>
+        {27.0} <music21.note.Note E->
+        {27.5} <music21.chord.Chord A1 A3>
+        {29.5} <music21.note.Note E->
+        {30.0} <music21.note.Note C>
+        {30.5} <music21.note.Note A>
+        {31.0} <music21.note.Note A>
+        {31.5} <music21.note.Note A>
+        {33.0} <music21.note.Note A>
+        {33.5} <music21.note.Note E->
+        {34.0} <music21.note.Note A>
+        {34.5} <music21.note.Note C>
+    {0.0} <music21.stream.Voice 184391660>
+        {0.0} <music21.note.Rest rest>
+        {0.5} <music21.note.Note G#>
+        {1.0} <music21.note.Note E->
+        {1.5} <music21.note.Note A>
+        {2.0} <music21.note.Rest rest>
+        {4.5} <music21.note.Note C>
+        {5.0} <music21.note.Note E->
+        {5.5} <music21.note.Note F#>
+        {6.0} <music21.note.Rest rest>
+        {8.0} <music21.note.Note A>
+        {8.5} <music21.note.Note C>
+        {9.0} <music21.note.Rest rest>
+        {11.0} <music21.note.Note C>
+        {11.5} <music21.note.Note C>
+        {12.0} <music21.note.Rest rest>
+        {13.5} <music21.note.Note E->
+        {14.0} <music21.note.Rest rest>
+        {15.5} <music21.note.Note F#>
+        {16.0} <music21.note.Rest rest>
+        {19.0} <music21.note.Note F#>
+        {19.5} <music21.note.Rest rest>
+        {20.5} <music21.note.Note E->
+        {21.0} <music21.note.Rest rest>
+        {22.5} <music21.note.Note C>
+        {23.0} <music21.note.Note C>
+        {23.5} <music21.note.Rest rest>
+        {24.5} <music21.chord.Chord B-3 B-2>
+        {26.0} <music21.note.Rest rest>
+        {28.0} <music21.note.Note C>
+        {28.5} <music21.note.Note E->
+        {29.0} <music21.note.Note F#>
+        {29.5} <music21.note.Rest rest>
+        {31.0} <music21.note.Note A>
+        {33.0} <music21.note.Rest rest>
+        {35.0} <music21.chord.Chord A2 G3>
+    {0.0} <music21.stream.Voice 184391756>
+        {32.0} <music21.note.Note E->
+        {32.5} <music21.note.Note A>
+    {1.0} <music21.meter.TimeSignature 3/8>
+    {2.5} <music21.meter.TimeSignature 4/8>
+    {4.0} <music21.meter.TimeSignature 7/8>
+    {4.5} <music21.meter.TimeSignature 5/8>
+    {7.0} <music21.meter.TimeSignature 6/8>
+    {10.0} <music21.meter.TimeSignature 7/8>
+    {10.5} <music21.meter.TimeSignature 5/8>
+    {13.0} <music21.meter.TimeSignature 4/8>
+    {13.5} <music21.meter.TimeSignature 8/8>
+    {15.0} <music21.meter.TimeSignature 3/8>
+    {16.5} <music21.meter.TimeSignature 2/8>
+    {18.5} <music21.meter.TimeSignature 3/8>
+    {20.0} <music21.meter.TimeSignature 4/8>
+    {21.5} <music21.meter.TimeSignature 7/8>
+    {22.0} <music21.meter.TimeSignature 5/8>
+    {24.5} <music21.meter.TimeSignature 6/8>
+    {27.5} <music21.meter.TimeSignature 7/8>
+    {28.0} <music21.meter.TimeSignature 5/8>
+    {30.5} <music21.meter.TimeSignature 4/8>
+    {31.0} <music21.meter.TimeSignature 8/8>
+    {32.5} <music21.meter.TimeSignature 3/8>
+    {34.0} <music21.meter.TimeSignature 2/8>
